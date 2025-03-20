@@ -1,0 +1,30 @@
+/* Custom styles */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #fff;
+}
+
+.page-header {
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+}
+
+.footer {
+  background-color: #f8f9fa;
+}
+
+.footer .nav-link {
+  color: #6c757d;
+}
+
+.footer .nav-link:hover {
+  color: #495057;
+}
+
+.card {
+  margin-bottom: 20px;
+}
